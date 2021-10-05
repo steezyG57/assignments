@@ -1,0 +1,95 @@
+.header {
+    color: blueviolet;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+#header {
+    font-size: 80px;
+    margin-left: 30px;
+    color: white
+    
+}
+
+.openingparagraph {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+#shop {
+    font-size: 30px;
+    color: rgb(204, 107, 204)
+}
+
+body {
+     background-image: url(backgroundbonsai2.jpg);
+     background-repeat: no-repeat;
+     background-size: 100vw;
+     margin: 0px;
+     padding: 0px;
+     min-height: 100vh;
+}
+
+h1 {
+    font-size: 5.5vw;
+}
+
+.flex-container {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 55%;
+    transform: translateX(-50%) translateY(-50%);
+    /* text-align: center; */
+}
+
+#bonsai1 {
+    width: 500px;
+    border: 2px solid black;    
+    /*margin-right: 80px;*/
+}
+#bonsai1:hover {
+    opacity: .8;
+    
+}
+
+#bonsai2 {
+    width: 500px;
+    border: 2px solid black;
+    /*margin-right: 80px;*/
+}
+
+#bonsai3 {
+    width: 500px;
+    border: 2px solid black;
+}
+
+#tag1 {
+    font-size: 30px;
+}
+
+#tag2 {
+    font-size: 30px;
+}
+
+#tag3 {
+    font-size: 30px;
+}
+
+footer {
+    background-color: whitesmoke;
+    height: auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+
+}
+.bonsaidescp {
+    text-align: center;
+}
+
+.product-card {
+    margin: 80px;
+}

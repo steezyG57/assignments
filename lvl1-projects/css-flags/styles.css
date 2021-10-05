@@ -1,0 +1,67 @@
+.france{
+    background-color: #3d3d3d;
+    width: 300px;
+    height: 200px;
+    
+}
+.color-one{
+    background-color: #002495;
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+.color-two{
+    background-color: #FFFFFF;
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+.color-three{
+    background-color: #ED2938;
+    height: 200px;
+    width: 100px;
+    float: left;
+}
+
+.niger {
+    background-color: white;
+    height: 150px;
+    width: 300px;
+    margin-top: 20px;
+}
+.niger1 {
+    background-color: #E15307;
+    height: 50px;
+    width: 300px;
+}
+.niger2 {
+    background-color: #E15307;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.niger3 {
+    background-color: #10AF2A;
+    height: 50px;
+    width: 300px;
+}
+
+.germany{
+    background-color: #000000;
+    width: 300px;
+    height: 80px;
+    margin-top: 20px;
+    float:left;
+}
+.g-two{
+    background-color: #DE0002;
+    height: 80px;
+    width: 300px;
+    margin-top: 80px;
+}
+.g-three{
+    background-color: #FFCE00;
+    height: 80px;
+    width: 300px;
+}

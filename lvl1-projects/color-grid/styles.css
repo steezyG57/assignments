@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box; 
+    font-size: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    border: solid white 2px;
+    height: 250px;
+    display: inline-block
+}
+
+.pink {
+    background-color: #F5C6d6;
+    width:100%
+}
+.darkpink {
+    background-color: #EE2E84;
+    width: 25%
+}
+
+.teal {
+    background-color: #85CFD8;
+    width: 50%
+}
+
+.green {
+    background-color: #8Dc63f;
+    width: 75%
+}
+
+.orange {
+    background-color: #E76E34;
+    width: 25%
+}
+
+@media (max-width: 768px) {
+    .box {
+        width: 100%;
+    }
+}
